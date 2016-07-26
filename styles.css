@@ -1,0 +1,44 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+body {
+}
+
+.content-box-hero {
+  width: 100vw;
+  height: 420px;
+  background: url('./app/assets/mountain-pic.jpg') center center no-repeat;
+}
+.content-box  {
+  width: 100vw;
+  height: 420px;
+  background-color: #6386C0;
+  display: inline-block;
+  position: relative;
+}
+
+.hero-stats-container {
+  width: 98%;
+  height: auto;
+  margin: 0 auto;
+  font-size: 0;
+  margin-top: 10px;
+  padding-left: 2%;
+}
+.hero-stats {
+  width: 22%;
+  min-width: 200px;
+  margin: 2% 1%;
+  height: 80%;
+  background-color: salmon;
+  display: inline-block;
+}
+
+
+
+ /*
+  * See https://github.com/angular/angular.io/blob/master/public/docs/_examples/styles.css
+  * for the full set of master styles used by the documentation samples
+  */

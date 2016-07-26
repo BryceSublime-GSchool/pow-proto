@@ -1,0 +1,3 @@
+<a [routerLink]="['/plan-your-trip']" routerLinkActive="active">Plan Your Trip</a>
+<a [routerLink]="['/things-to-do']" routerLinkActive="active">Things to Do</a>
+<a [routerLink]="['/culture']" routerLinkActive="active">Culture</a>
